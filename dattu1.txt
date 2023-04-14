@@ -1,2 +1,3 @@
 hello how are you
-im rameshgit gitg
+i'm checkin remote repository
+how to update the code
